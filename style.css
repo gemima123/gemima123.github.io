@@ -71,10 +71,10 @@ footer {
 }
 
 .project-card {
-  background-color: #1e1e1e;
+  background-color: #027260;
   padding: 1.5rem;
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  box-shadow: 0 2px 8px rgba(8, 8, 8, 0.3);
 }
 
 .project-card h3 {
@@ -84,7 +84,7 @@ footer {
 .project-card a {
   display: inline-block;
   margin-top: 1rem;
-  color: #00bcd4;
+  color: #10a1b4;
   text-decoration: underline;
 }
 /* Toggle Switch Styles */
